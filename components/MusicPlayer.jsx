@@ -22,7 +22,7 @@ export default function MusicPlayer() {
     <div className="fixed bottom-6 right-6 z-50 flex items-center gap-3">
       <audio 
         ref={audioRef} 
-        src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" 
+        src="/tulgaa.mp3" 
         loop 
       />
       

@@ -50,7 +50,7 @@ export default function LetterInterface({ onClaim }) {
                     onClick={onClaim}
                     className="bg-red-accent hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full shadow-lg transition-transform transform hover:scale-105"
                 >
-                    Claim Your Gift Book
+                    Claim Your Gift 
                 </button>
             </div>
         </div>
